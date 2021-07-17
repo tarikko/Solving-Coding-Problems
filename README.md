@@ -6,7 +6,7 @@ Problems are ordered in this way :
 
 ```
 ├── Easy
-│	├── #1 (These are the coding problems)
+│ ├── #1 (These are the coding problems)
 │	│	├── Solution #1 (These are the solutions)
 │	│	│	├── python
 │	│	│	│	├── main.py
@@ -15,7 +15,7 @@ Problems are ordered in this way :
 │	│	│		├── main.js
 │	│	│		└── ...
 │	│	└── Solution #2 (A problem can have multiple solutions)
-│	├── #2
+│	└── #2
 ├── Medium
 │	└── #1 
 │		└── ...
